@@ -1,4 +1,3 @@
-**Sobre mim...**
 * :eyes: Saiba mais em: https://www.linkedin.com/in/giovana-almeida-53341820a/ 
 * :book: Estudante de Redes de Computadores
 * 📫 Contate-me no email: giovanaalmeidacosta1105@gmail.com
