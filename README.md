@@ -1,8 +1,7 @@
 **Conheça mais de mim...**
-- 👋 Hi, I’m @giovana-git
-- 👀 I’m interested in 
-- :book: Estudante de Redes de Computadores
-- 📫 Contate-me no email: giovanaalmeidacosta1105@gmail.com
+1. 👋 Hi, I’m @giovana-git
+2. :book: Estudante de Redes de Computadores
+3. 📫 Contate-me no email: giovanaalmeidacosta1105@gmail.com
 
 <!---
 giovana-git/giovana-git is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
