@@ -1,4 +1,4 @@
-# Olá, eu sou a Giovana!
+## Olá, eu sou a Giovana!
 * :eyes: Saiba mais em: https://www.linkedin.com/in/giovana-almeida-53341820a/ 
 * :book: Estudante de Redes de Computadores
 
