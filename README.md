@@ -1,5 +1,5 @@
 ## Olá, eu sou a Giovana!
-* :eyes:  Saiba mais em: https://www.linkedin.com/in/giovana-almeida-53341820a/ 
+* :envelope:  giovanaalmeidacosta1105@gmail.com
 * :computer:  Técnica em Redes de Computadores
 * :cloud:  AWS Cloud
  
