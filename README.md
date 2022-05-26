@@ -1,7 +1,7 @@
 ## Olá, eu sou a Giovana!
-* :eyes: Saiba mais em: https://www.linkedin.com/in/giovana-almeida-53341820a/ 
-* :computer: Técnica em Redes de Computadores
-* :cloud: AWS Cloud
+* :eyes:  Saiba mais em: https://www.linkedin.com/in/giovana-almeida-53341820a/ 
+* :computer:  Técnica em Redes de Computadores
+* :cloud:  AWS Cloud
  
 <div>
   <a href="https://github.com/giovana-git">
