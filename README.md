@@ -1,7 +1,7 @@
-## Olá, eu sou a Giovana!
+## Hello, I'am Giovana!
 * :envelope:  giovanaalmeidacosta1105@gmail.com
-* :computer:  Técnica em Redes de Computadores
-* :cloud:  AWS Cloud
+* :computer:  Computer network technician
+* :cloud:  AWS Certified 
  
 <div>
   <a href="https://github.com/giovana-git">
