@@ -14,7 +14,7 @@
  <!--Docker-->
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <!--   -->
 <!--Kubernetes-->
-<a href="" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/kubernetes/kubernetes-plain.svg" alt="kubernetes" width="40" height="40"/> </a> <!--   -->
+<a href="https://kubernetes.io/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/kubernetes/kubernetes-plain.svg" alt="kubernetes" width="40" height="40"/> </a> <!--   -->
 <!--Jenkins-->
 <a href="https://www.jenkins.io/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/jenkins/jenkins-original.svg" alt="jenkins" width="40" height="40"/> </a> <!--   -->
 <!-- <div style="display: inline_block"><br>
