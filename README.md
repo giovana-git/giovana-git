@@ -1,6 +1,6 @@
 ## Hello, I'am Giovana!
 * :envelope:  giovanaalmeidacosta1105@gmail.com
-* :computer:  Cloud infrastructure analyst
+* :computer:  Cloud Engineer | SRE
 * :cloud:  AWS Certified | Terraform Associate 
  
  <!--Amazon Web Services-->
