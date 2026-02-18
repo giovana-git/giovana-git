@@ -1,8 +1,6 @@
 ## Hello, I'm **Giovana Costa**! 
 * :computer:  Cloud Engineer | SRE
 * :cloud:  AWS Certified | Terraform Associate 
-
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/giovanaalmeidacosta)
  
  <!--Amazon Web Services-->
 <h2 align="left">Work / Skills</h2>
@@ -32,8 +30,9 @@
 <h2 align="left">Github Stats</h2>
 <a href="https://github.com/giovana-git">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=giovana-git&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+[![giovana-git](https://github-readme-stats.vercel.app/api/top-langs/?username=giovana-git&hide=html&layout=compact&theme=dracula)](https://github.com/giovana-git/)
+</div>
 
 ## **Contact Info** ;)
 
-[![giovana-git](https://github-readme-stats.vercel.app/api/top-langs/?username=giovana-git&hide=html&layout=compact&theme=dracula)](https://github.com/giovana-git/)
-</div>  
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/giovanaalmeidacosta)
