@@ -1,7 +1,7 @@
 ## Hello, I'am Giovana!
-* :envelope:  giovanaalmeidacosta1105@gmail.com
-* :computer:  Cloud Engineer | SRE
+* :computer:  Cloud Engineer | SRE | DevOps
 * :cloud:  AWS Certified | Terraform Associate 
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/giovanaalmeidacosta)
  
  <!--Amazon Web Services-->
 <h2 align="left">Work / Skills</h2>
