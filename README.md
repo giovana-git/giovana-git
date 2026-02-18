@@ -27,4 +27,4 @@
 ## **Contact Info**:
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/giovanaalmeidacosta)
-[![Credly](https://images.credly.com/size/340x340/images/b685de69-03cf-402c-b8e3-62ecd0e2e949/blob.png)](https://www.credly.com/users/giovana-almeida/badges)
+[![Credly](https://www.credly.com/earner/dashboard)](https://www.credly.com/users/giovana-almeida/badges)
