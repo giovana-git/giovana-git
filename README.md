@@ -26,5 +26,10 @@
 
 ## **Contact Info**:
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/giovanaalmeidacosta)
-[![Credly](https://assets.streamlinehq.com/image/private/w_300,h_300,ar_1/f_auto/v1/icons/logos/credly-3kf904jcwo8gdlgivlrs2d.png/credly-zrtwknl91e1cngw2irj9.png?_a=DATAiZAAZAA0)](https://www.credly.com/users/giovana-almeida/badges)
+<a href="https://www.linkedin.com/in/giovanaalmeidacosta">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://www.credly.com/users/giovana-almeida/badges">
+  <img src="https://img.shields.io/badge/Credly-FF6B00?style=for-the-badge&logo=credly&logoColor=white"/>
+</a>
