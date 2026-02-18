@@ -24,6 +24,7 @@
   <img align="center" alt="Giovana-Debian" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg">  -->
 <!-- ![Snake animation](https://github.com/giovana-git/giovana-git/blob/output/github-contribution-grid-snake.svg) -->
 
-## **Contact Info** ;)
+## **Contact Info**:
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/giovanaalmeidacosta)
+[![Credly](https://images.credly.com/size/340x340/images/b685de69-03cf-402c-b8e3-62ecd0e2e949/blob.png)](https://www.credly.com/users/giovana-almeida/badges)
