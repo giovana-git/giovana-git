@@ -1,4 +1,4 @@
-## Hello, I'am Giovana!
+## Hello, I'm **Giovana Costa**! 
 * :computer:  Cloud Engineer | SRE
 * :cloud:  AWS Certified | Terraform Associate 
 
@@ -32,6 +32,8 @@
 <h2 align="left">Github Stats</h2>
 <a href="https://github.com/giovana-git">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=giovana-git&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+
+## **Contact Info** ;)
 
 [![giovana-git](https://github-readme-stats.vercel.app/api/top-langs/?username=giovana-git&hide=html&layout=compact&theme=dracula)](https://github.com/giovana-git/)
 </div>  
