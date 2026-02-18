@@ -31,7 +31,7 @@
 <a href="https://github.com/giovana-git">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=giovana-git&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 [![giovana-git](https://github-readme-stats.vercel.app/api/top-langs/?username=giovana-git&hide=html&layout=compact&theme=dracula)](https://github.com/giovana-git/)
-</div>
+ </div>
 
 ## **Contact Info** ;)
 
