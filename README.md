@@ -24,15 +24,6 @@
   <img align="center" alt="Giovana-Debian" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg">  -->
 <!-- ![Snake animation](https://github.com/giovana-git/giovana-git/blob/output/github-contribution-grid-snake.svg) -->
 
- </div>
- 
-<div>
-<h2 align="left">Github Stats</h2>
-<a href="https://github.com/giovana-git">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=giovana-git&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-[![giovana-git](https://github-readme-stats.vercel.app/api/top-langs/?username=giovana-git&hide=html&layout=compact&theme=dracula)](https://github.com/giovana-git/)
- </div>
-
 ## **Contact Info** ;)
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/giovanaalmeidacosta)
